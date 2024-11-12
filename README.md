@@ -55,7 +55,8 @@ I'm a backend developer specializing in building applications using **Java**, **
 ---
 
 ### 🚀 My Projects
-
+- **[license-service](https://github.com/yahyo7/e-commerce-microservices)** - E-commerce microservice using Spring, Discovery server(Eureka), Api Gateway(Nginx),  
+ELK, Grafana, Prometheus, Keycloak and ELK.
 - **[movie_reservation_system](https://github.com/IslomW/movie_reservation_system)** - A movie reservation system with REST API, Spring Security, and Swagger documentation.
 - **[license-service](https://github.com/IslomW/license-service)** - A license management microservice using Spring Cloud Config and Eureka.
 - **[product-service](https://github.com/IslomW/product-service)** - A new microservice for managing products, categories, and inventory.
