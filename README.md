@@ -51,6 +51,7 @@ I'm a backend developer specializing in building applications using **Java**, **
 
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IslomW&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IslomW&layout=compact&theme=radical)
 
 ---
 
