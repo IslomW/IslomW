@@ -32,6 +32,7 @@ I'm a backend developer specializing in building applications using **Java**, **
 ![Discovery Server](https://img.shields.io/badge/Discovery%20Server-FFC107?style=for-the-badge&logo=consul&logoColor=white)
 ![Eureka](https://img.shields.io/badge/Eureka-8A3FFC?style=for-the-badge&logo=netflix&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/Spring%20API%20Gateway-00A0B2?style=for-the-badge&logo=spring&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-FF9A6B?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
